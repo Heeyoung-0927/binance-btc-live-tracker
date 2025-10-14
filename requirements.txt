@@ -4,3 +4,5 @@ websockets
 pandas
 plotly
 streamlit
+streamlit>=latest_version
+plotly>=latest_version
