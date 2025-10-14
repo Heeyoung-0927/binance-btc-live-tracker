@@ -1,6 +1,5 @@
 asyncio
 datetime
-time
 queue
 zoneinfo
 websockets
